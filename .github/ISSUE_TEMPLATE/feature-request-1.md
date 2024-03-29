@@ -18,3 +18,4 @@ Spotify should introduce a new feature on it's mobile application, queue list. W
 
 o Additional context:
 When I play a song and look for another song, while the first song is still playing. the looked up song's option should include a new option stating to line up this song next in queue. And after the song's added in a queue, at the same place we should be able to open the queue to know which songs are being listed.
+![featureRequestSpotify](https://github.com/Bhawanjeet-Kaur/BhawanjeetKaur-BugReports/assets/114077701/d68c359f-2857-4ac4-8fa3-f017364f716c)
