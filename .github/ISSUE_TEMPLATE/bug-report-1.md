@@ -29,3 +29,4 @@ Device: iPhone14
 OS: iOS17
 
 o Screenshots:
+![MobileBankingBug](https://github.com/Bhawanjeet-Kaur/BhawanjeetKaur-BugReports/assets/114077701/ed9dc6e6-744d-4050-baf4-9ed81c3d971c)
